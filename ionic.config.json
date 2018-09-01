@@ -1,0 +1,7 @@
+{
+  "name": "IonicTodoTry",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
